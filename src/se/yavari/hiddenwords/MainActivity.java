@@ -11,7 +11,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 public class MainActivity extends ListActivity {
-	public final static String EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE";
+	public final static String EXTRA_MESSAGE = "se.yavari.hiddenwords.MESSAGE";
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
